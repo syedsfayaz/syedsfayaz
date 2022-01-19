@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Fayaz. Build Release/DevOps engineer with experience in cloud technologies, devops and monitoring tools. I am from India, Currently living in US.
+
+Skills & Tools:
+
+Scripting: Shell, Python, Groovy
+
+Build Tools: Ant, Maven, Gradle
+
+Cloud: AWS
+
+Observability: Grafana, ELK
+
+Devops: GitHub, Gitlab, Jenkins, ArgoCD, Tekton, Kubernetes, Docker, Terraform, Ansible
+
+Learning: GO Lang, Prometheus, Github Actions
